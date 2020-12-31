@@ -75,3 +75,4 @@ If you compare with, build on, or use aspects of the AI Physicist work, please c
     publisher={APS}
 }
 ```
+this will added 
